@@ -1,2 +1,2 @@
 # vanillajsTutorial
- [vanilla JS] clone chrome with fundamental concepts
+ [vanilla JS] clone chrome (extension momentum) with fundamental concepts
